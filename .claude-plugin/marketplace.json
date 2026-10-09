@@ -1,0 +1,16 @@
+{
+  "name": "side-chat",
+  "owner": {
+    "name": "Chiara Costa"
+  },
+  "metadata": {
+    "description": "A side chat pane inside the session that answers questions or runs requests on a model of your choice."
+  },
+  "plugins": [
+    {
+      "name": "side-chat",
+      "source": "./",
+      "description": "A side chat pane inside the session that answers questions or runs requests on a model of your choice."
+    }
+  ]
+}
